@@ -28,7 +28,7 @@ This project demonstrates how to use Selenium for web scraping to extract detail
 
 2. **Install the required packages**:
     ```bash
-    pip install selenium pandas
+    pip install selenium 
     ```
 
 3. **Download and install Chrome WebDriver**:
